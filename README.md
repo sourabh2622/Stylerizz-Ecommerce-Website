@@ -1,3 +1,35 @@
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  h1, h2, h3 {
+    color: #0056b3;
+  }
+  .button-container {
+    margin: 20px 0;
+  }
+  .button {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #0056b3;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+  }
+  .button:hover {
+    background-color: #004494;
+  }
+</style>
+
 # Stylerizz
 
 ## Overview
@@ -30,13 +62,22 @@ Stylerizz is a dynamic multi-panel eCommerce platform designed for shopping enth
 - **Backend**: PHP, CodeIgniter 4
 - **Database**: MySQL
 
+<div class="button-container">
+  <a href="#" class="button">HTML</a>
+  <a href="#" class="button">CSS</a>
+  <a href="#" class="button">Bootstrap</a>
+  <a href="#" class="button">jQuery</a>
+  <a href="#" class="button">PHP</a>
+  <a href="#" class="button">CodeIgniter 4</a>
+  <a href="#" class="button">MySQL</a>
+</div>
+
 ---
 
 ## SEO Features
 - Implemented SEO strategies to improve visibility on search engines:
   - Optimized project pages.
   - Enhanced vendor and styler profiles for better ranking.
-
 
 Thank you for visiting Stylerizz!
 
